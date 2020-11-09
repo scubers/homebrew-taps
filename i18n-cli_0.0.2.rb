@@ -4,8 +4,8 @@
 class I18nCli < Formula
   desc ""
   homepage ""
-  url "https://raw.githubusercontent.com/scubers/homebrew-i18n-cli/main/i18n-cli_0.0.1.tar.gz"
-  sha256 "9aea12b167ed36e625d9bf1b04bf02a4b44b1f704b869144d6cfe8a15ab21275"
+  url "https://raw.githubusercontent.com/scubers/homebrew-i18n-cli/main/i18n-cli_0.0.2.tar.gz"
+  sha256 "b56d60516e38b5a087eaf1b1b0e35b8a8a414deaade8bf9486add60ef266a6f2"
   license ""
 
   # depends_on "cmake" => :build
