@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class I18nCli < Formula
+class I18nCli002 < Formula
   desc ""
   homepage ""
   url "https://raw.githubusercontent.com/scubers/homebrew-i18n-cli/main/i18n-cli_0.0.2.tar.gz"
